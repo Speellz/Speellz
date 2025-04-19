@@ -1,16 +1,55 @@
-## Hi there 👋
+🔌 About Me
 
-<!--
-**Speellz/Speellz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Management Information Systems student
 
-Here are some ideas to get you started:
+🌎 Based in Turkey, building global-scale ideas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Passionate about AI, automation, and smart systems
+
+
+🔧 Languages & Tools
+
+Languages I've used in projects:
+
+Java
+
+JavaScript
+
+Python
+
+PHP
+
+
+Tools, Frameworks, and Systems:
+
+Arduino Uno
+
+ESP32
+
+Flutter (IoT mobile app integration)
+
+JavaFX (Desktop GUI)
+
+Discord.py, yt-dlp, Selenium
+
+🔹 Featured Project
+
+🤖 ai-discord-bot
+
+A multifunctional Discord bot powered by Gemini AI.
+
+🎵 Music streaming
+
+🔊 Voice synthesis & response
+
+📰 Twitter auto-fetcher
+
+💬 Slash commands and TTS-based speaking
+
+Built for fun. Deployed with purpose.
+
+🤝 Let's Connect
+
+GitHub: Speellz
+
+LinkedIn: Cenk Kağan Çakır
