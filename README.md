@@ -54,7 +54,7 @@ A multifunctional Discord bot powered by Gemini AI.
 
 ## <h2><img src="https://img.icons8.com/color/24/handshake.png"/> Let's Connect</h2>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cenkkaancakir)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/cenkkaancakir](https://www.linkedin.com/in/cenk-ka%C4%9Fan-%C3%A7ak%C4%B1r-8785681b8/)
 
 ---
 
