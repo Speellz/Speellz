@@ -5,7 +5,7 @@
 
 ---
 
-## 🔌 About Me
+## <h2><img src="https://img.icons8.com/color/24/about.png"/> About Me</h2>
 
 - 🎓 Management Information Systems student  
 - 🌎 Based in Turkey, building global projects  
@@ -13,24 +13,26 @@
 
 ---
 
-## 🔧 Languages & Tools
+## <h2><img src="https://img.icons8.com/color/24/code.png"/> Languages & Tools</h2>
 
 ### 🖥️ Languages I've used in projects:
-- Java
-- JavaScript
-- Python
-- PHP
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> PHP  
 
 ### ⚙️ Tools, Frameworks & Systems:
-- Arduino Uno  
-- ESP32  
-- Flutter (IoT mobile app integration)  
-- JavaFX (Desktop GUI apps)  
-- Discord.py · yt-dlp · Selenium  
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="20"/> Arduino Uno  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="20"/> Flutter
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> JavaFX (Desktop GUI apps) 
+- 🛠️ ESP32  
+- 🐍 Discord.py · yt-dlp · Selenium  
 
 ---
 
-## 🔹 Featured Project
+## <h2><img src="https://img.icons8.com/fluency/24/star.png"/> Featured Project</h2>
 
 ### 🤖 [ai-discord-bot](https://github.com/Speellz/ai-discord-bot)
 A multifunctional Discord bot powered by Gemini AI.
@@ -44,7 +46,7 @@ A multifunctional Discord bot powered by Gemini AI.
 
 ---
 
-## 🤝 Let's Connect
+## <h2><img src="https://img.icons8.com/color/24/handshake.png"/> Let's Connect</h2>
 
 - 🧑‍💻 GitHub: [Speellz](https://github.com/Speellz)  
-- 💼 LinkedIn: [Cenk Kağan Çakır](https://www.linkedin.com/in/cenkkaancakir)  
+- 💼 LinkedIn: [Cenk Kağan Çakır](https://www.linkedin.com/in/cenk-ka%C4%9Fan-%C3%A7ak%C4%B1r-8785681b8/)  
