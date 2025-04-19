@@ -9,26 +9,30 @@
 
 - 🎓 Management Information Systems student  
 - 🌎 Based in Turkey, building global projects  
-- 🤖 Passionate about AI, automation, and smart systems  
+- 🤖 Passionate about AI, automation, and smart systems
+- 💻 I build full-stack management systems like recruitment and finance apps using Java, Python, MSSQL & Flask
 
 ---
 
 ## <h2><img src="https://img.icons8.com/color/24/code.png"/> Languages & Tools</h2>
 
 ### 🖥️ Languages I've used in projects:
-
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> PHP  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> C  
+
 
 ### ⚙️ Tools, Frameworks & Systems:
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="20"/> Arduino Uno  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="20"/> Arduino Uno 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="20"/> Flutter
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> JavaFX (Desktop GUI apps) 
-- 🛠️ ESP32  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> JavaFX (Desktop GUI apps)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="20"/> Flask  
+- <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="20"/> MSSQL
+- 🛠️ ESP32
 - 🐍 Discord.py · yt-dlp · Selenium  
+
 
 ---
 
