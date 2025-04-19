@@ -55,4 +55,17 @@ A multifunctional Discord bot powered by Gemini AI.
 ## <h2><img src="https://img.icons8.com/color/24/handshake.png"/> Let's Connect</h2>
 
 - 🧑‍💻 GitHub: [Speellz](https://github.com/Speellz)  
-- 💼 LinkedIn: [Cenk Kağan Çakır](https://www.linkedin.com/in/cenk-ka%C4%9Fan-%C3%A7ak%C4%B1r-8785681b8/)  
+- 💼 LinkedIn: [Cenk Kağan Çakır](https://www.linkedin.com/in/cenk-ka%C4%9Fan-%C3%A7ak%C4%B1r-8785681b8/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Speellz&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Speellz&layout=compact&theme=radical" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Speellz&theme=radical&hide_border=false" width="88%" />
+</p>
