@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=MIS+Student;Full-Stack+Developer;Java+%26+Python+Enthusiast;Building+Global+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=MIS+Student;Full-Stack+Developer;WayGrab+Creator;Building+Smart+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,14 +17,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="100%">
 </div>
 
-<br/>
-
 ### 🧐 About Me
 
-- 🎓 **Management Information Systems** student passionate about data and software.
-- 💻 I build **full-stack management systems** and **AI-powered automation tools**.
-- 🤖 Currently developing **Discord bots** with Python and **Mobile Apps** with Flutter.
-- 🚀 My goal is to transform technology into solutions that make life easier.
+- 🎓 **Management Information Systems** student passionate about data-driven software.
+- 📱 Creator of **WayGrab**, a route-based real-time ordering system.
+- 💻 I build scalable backends with **FastAPI** and mobile experiences with **React Native**.
+- 🚀 Always learning: Currently deep diving into **PostgreSQL** optimizations.
 
 <p align="left">
   <a href="mailto:cenkkagancakir@hotmail.com">
@@ -42,9 +40,9 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,php,cs" />
+  <img src="https://skillicons.dev/icons?i=py,js,java,cs,php" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=spring,flask,discord,mysql,flutter,selenium,arduino,git" />
+  <img src="https://skillicons.dev/icons?i=react,fastapi,postgres,docker,git,postman,flask,discord" />
 </div>
 
 <br/>
@@ -53,32 +51,35 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="100%">
 </div>
 
-### 🌟 Featured Project: [AI Discord Bot](https://github.com/Speellz/ai-discord-bot)
+### 🚀 Featured Project: WayGrab
 
-> *A multifunctional Discord bot powered by Gemini AI.*
+> *Route-Based Real-Time Mobile Ordering and Pickup System*
 
-| Feature | Description |
+| Tech | Description |
 | :--- | :--- |
-| 🎵 **Music** | High quality streaming & control |
-| 🗣️ **Voice** | TTS & Voice synthesis |
-| 🧠 **AI** | Smart responses powered by Gemini |
+| 📱 **React Native** | Cross-platform mobile application for seamless UX |
+| ⚡ **FastAPI** | High-performance asynchronous backend API |
+| 🐘 **PostgreSQL** | Advanced relational database for route & order data |
 
 <br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="100%">
+</div>
 
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
   <a href="https://github.com/Speellz">
-    <img src="https://github-readme-stats.vercel.app/api?username=Speellz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Speellz&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
   </a>
-  
   <a href="https://github.com/Speellz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Speellz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Speellz&layout=compact&theme=radical&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Speellz&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Speellz&theme=radical&hide_border=true&background=00000000" height="140" alt="streak graph" />
 </div>
