@@ -70,16 +70,16 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <a href="https://github.com/Speellz">
-    <img src="https://github-readme-stats.vercel.app/api?username=Speellz&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
-  </a>
-  <a href="https://github.com/Speellz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Speellz&layout=compact&theme=radical&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Speellz&theme=tokyonight" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Speellz&theme=radical&hide_border=true&background=00000000" height="140" alt="streak graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Speellz&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Speellz&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Speellz&theme=tokyonight" />
 </div>
