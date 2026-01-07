@@ -68,6 +68,17 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Speellz&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Speellz&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  <a href="https://github.com/Speellz">
+    <img src="https://github-readme-stats.vercel.app/api?username=Speellz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="stats graph" />
+  </a>
+  
+  <a href="https://github.com/Speellz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Speellz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Speellz&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="streak graph" />
 </div>
