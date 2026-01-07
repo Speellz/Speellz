@@ -14,7 +14,7 @@
     As a MIS student, I enjoy coding full-stack management systems, working with AI automation, 
     and creating smart solutions like Discord bots and Finance apps.
   </p>
-  <a href="mailto:seninemailadresin@gmail.com">
+  <a href="mailto:cenkkagancakir@hotmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/cenk-ka%C4%9Fan-%C3%A7ak%C4%B1r-8785681b8/">
