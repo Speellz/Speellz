@@ -19,10 +19,28 @@
 
 ### 🧐 About Me
 
-- 🎓 **Management Information Systems** student passionate about data-driven software.
-- 📱 Creator of **WayGrab**, a route-based real-time ordering system.
-- 💻 I build scalable backends with **FastAPI** and mobile experiences with **React Native**.
-- 🚀 Always learning: Currently deep diving into **PostgreSQL** optimizations.
+🚀 **Management Information Systems** student focused on building scalable, intelligent, and real-world software solutions.
+
+I don't just write code; I architect systems that solve specific problems, whether it's automating daily tasks with **AI**, optimizing logistics routes, or managing complex hiring processes.
+
+#### 🛠️ Core Competencies
+* **Backend & Enterprise:** Java (Spring Boot, Spring Security), PostgreSQL, MSSQL.
+* **AI & Automation:** Python (Selenium, Gemini AI, Discord Bots), Audio Processing (FFmpeg).
+* **Full Stack:** React Native, JavaScript, JSP/Thymeleaf.
+
+#### 💡 Key Projects
+
+**1. Job Recruitment Ecosystem (Java Spring Boot)**
+* A comprehensive hiring platform connecting companies, recruiters, and applicants.
+* **Features:** Role-based security (Admin/Company/Recruiter), real-time interview scheduling, applicant tracking, and recruitment analytics.
+* **Tech:** Spring Security, Data JPA, MSSQL, Bootstrap.
+
+**2. TACI – AI Assistant (Python)**
+* An advanced Discord bot integrating **Generative AI (Gemini)** for smart conversations and text-to-speech.
+* **Features:** Web scraping (Selenium) for real-time news, audio streaming via FFmpeg, and dynamic user interaction.
+
+**3. WayGrab (Full Stack)**
+* A route-based order pickup system bridging mobile (React Native) and backend services.
 
 <p align="left">
   <a href="mailto:cenkkagancakir@hotmail.com">
